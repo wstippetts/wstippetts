@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Scott Tippetts</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wstippetts" alt="wstippetts" /></a> </p>
 
 - 🌱 I’m currently learning **C#, AngularJS, Kafka**
 
@@ -17,3 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wstippetts&show_icons=true&locale=en" alt="wstippetts" width="70%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wstippetts&" alt="wstippetts" width="70%" />
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wstippetts" alt="wstippetts" /></a> </p>
