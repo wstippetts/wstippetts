@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Scott Tippetts</h1>
 
-- 🌱 I’m currently learning **C#, AngularJS, Kafka**
+- 🌱 I’m currently learning **AWS**
 
 - ⚡ Fun fact **I am a world class problem solver.**
 
