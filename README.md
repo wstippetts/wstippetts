@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scott Tippetts</h1>
 
+- §╦ Check out my landing page! https://wstippetts.github.io/my-landing-page/
+
 - 🌱 I’m currently learning **AWS**
 
 - ⚡ Fun fact **I am a world class problem solver.**
