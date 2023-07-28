@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Scott Tippetts</h1>
 
-- §╦ Check out my landing page! http://scotttippetts.com/ 
+- §╦ Check out my landing page! https://scotttippetts.com/ 
 
 - 🌱 I’m currently learning **AWS**
 
