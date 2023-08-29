@@ -2,7 +2,7 @@
 
 - §╦ Check out my landing page! https://scotttippetts.com/ 
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS, Comptia A+, network+, Security+** 
 
 - ⚡ Fun fact **I am a world class problem solver.**
 
